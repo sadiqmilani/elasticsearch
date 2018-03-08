@@ -1,8 +1,7 @@
 [[indices-put-mapping]]
 == Put Mapping
 
-The PUT mapping API allows you to add a new type to an existing index, or add new
-fields to an existing type:
+The PUT mapping API allows you to add new fields to a mapping type:
 
 [source,js]
 --------------------------------------------------
